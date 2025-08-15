@@ -4,11 +4,22 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 4000;
 
-// Cho phép nhận JSON từ client
 app.use(express.json());
-
-// Serve static files từ thư mục public
 app.use(express.static(path.join(__dirname, "public")));
+
+// Route mặc định
+app.get("/", (req, res) => {
+    res.send(`
+        <h2>✅ Quiz Backend API đang chạy!</h2>
+        <p>Dùng <a href="/api/questions">/api/questions</a> để lấy danh sách câu hỏi.</p>
+        <p>POST vào <code>/api/questions</code> để thêm câu hỏi mới.</p>
+    `);
+});
+
+// Alias /questions → /api/questions
+app.get("/questions", (req, res) => {
+    res.redirect("/api/questions");
+});
 
 // API đọc danh sách câu hỏi
 app.get("/api/questions", (req, res) => {
@@ -18,14 +29,11 @@ app.get("/api/questions", (req, res) => {
     });
 });
 
-// API ghi câu hỏi mới (hỗ trợ nhiều câu hỏi một lúc)
+// API ghi câu hỏi mới
 app.post("/api/questions", (req, res) => {
-    //console.log("📥 Nhận request:", req.body);
-
     const incomingData = req.body;
     const newQuestions = Array.isArray(incomingData) ? incomingData : [incomingData];
 
-    // Convert answer/options sang mảng nếu là string
     newQuestions.forEach(q => {
         if (typeof q.answer === "string") q.answer = q.answer.split("|").map(a => a.trim());
         if (typeof q.options === "string") q.options = q.options.split("|").map(o => o.trim());
@@ -50,15 +58,12 @@ app.post("/api/questions", (req, res) => {
 
     try {
         fs.writeFileSync(filePath, JSON.stringify(questions, null, 2), "utf8");
-        //console.log(`✅ Đã lưu ${newQuestions.length} câu hỏi, tổng: ${questions.length}`);
         res.json({ message: "✅ Thêm thành công", total: questions.length });
-    } catch (err) {
-        //console.error("❌ Lỗi ghi file:", err);
+    } catch {
         res.status(500).json({ error: "❌ Lỗi ghi file" });
     }
 });
 
-// Chạy server
 app.listen(PORT, () => {
     console.log(`Server đang chạy tại http://localhost:${PORT}`);
 });
