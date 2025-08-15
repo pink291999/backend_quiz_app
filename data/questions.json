@@ -1,0 +1,2676 @@
+[
+  {
+    "type": "essay",
+    "question": "Bao giờ Lan sẽ đi du học?",
+    "answers": [
+      "When will Lan study abroad?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Họ trở về nhà lúc bao giờ?",
+    "answers": [
+      "When did they come back home?",
+      "When did they return home?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ ba mẹ bạn sẽ đến thăm?",
+    "answers": [
+      "When will your parents visit you?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ chúng tôi đi nghỉ ở Đà Lạt?",
+    "answers": [
+      "When did we go on vacation in Da Lat?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy bắt đầu công việc mới bao giờ? ",
+    "answers": [
+      "When did she start her new job?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn sẽ đi Paris?",
+    "answers": [
+      "When will you go to Paris?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy sẽ về nhà bao giờ?",
+    "answers": [
+      "When will he go home?",
+      "When will he return home?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ họ sẽ kết hôn?",
+    "answers": [
+      "When will they get married?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn sẽ học tiếng Anh bao giờ?",
+    "answers": [
+      "When will you learn English?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bố mẹ bạn đến thăm bạn bao giờ?",
+    "answers": [
+      "When did your parents visit you?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ Minh sẽ chuyển đến thành phố Hồ Chí Minh?",
+    "answers": [
+      "When will Minh move to Ho Chi Minh City?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Cô giáo của tôi nghỉ hưu bao giờ?",
+    "answers": [
+      "When did my teacher retire?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ gia đình bạn sẽ đi du lịch Nhật Bản?",
+    "answers": [
+      "When will your family travel to Japan?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Họ bắt đầu học tiếng Pháp từ bao giờ?",
+    "answers": [
+      "When did they start learning French?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn trai của cô ấy rời Việt Nam?",
+    "answers": [
+      "When will her boyfriend leave Vietnam?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy quay lại công ty bao giờ?",
+    "answers": [
+      "When did he return to his company?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn hoàn thành bài tập về nhà?",
+    "answers": [
+      "When will you complete your homework?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy sẽ kết thúc khóa học bao giờ?",
+    "answers": [
+      "When will she finish her course?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn bắt đầu công việc mới?",
+    "answers": [
+      "When will you start your new job?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng tôi rời khỏi nhà bao giờ?",
+    "answers": [
+      "When did we leave home?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ anh trai tôi sẽ kết hôn?",
+    "answers": [
+      "When will my brother get married?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã rời sân bay bao giờ?",
+    "answers": [
+      "When did they leave the airport?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ cô ấy sẽ tham gia cuộc thi?",
+    "answers": [
+      "When will she take part in the contest?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bố tôi bắt đầu làm việc ở công ty đó từ bao giờ?",
+    "answers": [
+      "When did my father start working at that company?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng tôi chuyển đến căn nhà mới bao giờ?",
+    "answers": [
+      "When did we move to the new house?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn bắt đầu học lái xe?",
+    "answers": [
+      "When will you start learning to drive?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy trở lại Việt Nam bao giờ?",
+    "answers": [
+      "When did she return to Vietnam?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ họ tổ chức đám cưới?",
+    "answers": [
+      "When will they celebrate their wedding?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn sẽ chuyển việc bao giờ?",
+    "answers": [
+      "When will you change your job?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn hoàn thành dự án này?",
+    "answers": [
+      "When did you complete your project?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ cô ấy sẽ quay lại trường?",
+    "answers": [
+      "When will she return to her school?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ họ đã hoàn thành bài kiểm tra?",
+    "answers": [
+      "When did they complete the exam?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ chúng ta sẽ gặp nhau ở quán cà phê?",
+    "answers": [
+      "When will we meet at the café?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Em gái tôi chuyển đến Hà Nội bao giờ?",
+    "answers": [
+      "When did my younger sister move to Hanoi?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn sẽ thi bằng lái xe?",
+    "answers": [
+      "When will you take your driving test?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn sẽ đi công tác bao giờ?",
+    "answers": [
+      "When will you go on a business trip?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ họ bắt đầu kỳ nghỉ hè?",
+    "answers": [
+      "When will they start their summer vacation?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn trai cô ấy gọi điện bao giờ?",
+    "answers": [
+      "When did her boyfriend call?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ chị bạn trở về nhà?",
+    "answers": [
+      "When will your sister return home?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy hoàn thành chương trình học bao giờ?",
+    "answers": [
+      "When did he complete his course?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Họ sẽ chuyển ra nước ngoài bao giờ?",
+    "answers": [
+      "When will they move abroad?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy đến văn phòng bao giờ?",
+    "answers": [
+      "When did she go to the office?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn sẽ bắt đầu học đại học?",
+    "answers": [
+      "When will you start college?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Anh trai tôi quay lại Việt Nam bao giờ?",
+    "answers": [
+      "When did my brother return to Vietnam?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Họ tổ chức buổi họp lớp bao giờ?",
+    "answers": [
+      "When did they have their class reunion?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn bắt đầu làm việc ở đây?",
+    "answers": [
+      "When will you start working here?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Chị ấy sẽ chuyển đến công ty mới bao giờ?",
+    "answers": [
+      "When will she move to the new company?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn mua chiếc máy tính này?",
+    "answers": [
+      "When will you buy this computer?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Em bạn rời khỏi nhà bao giờ?",
+    "answers": [
+      "When did your younger sibling leave home?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ họ quay lại sau kỳ nghỉ lễ?",
+    "answers": [
+      "When will they come back after the holiday?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ chị bạn sẽ đi du học ở Úc?",
+    "answers": [
+      "When will your sister go to study abroad in Australia?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Họ trở về nhà từ chuyến du lịch khi nào?",
+    "answers": [
+      "When did they come back from their trip?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bao giờ bạn sẽ nộp đơn xin việc mới?",
+    "answers": [
+      "When will you apply for a new job?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy rời công ty cũ từ bao giờ?",
+    "answers": [
+      "When did she leave her old company?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Gia đình bạn sẽ tổ chức tiệc sinh nhật bao giờ?",
+    "answers": [
+      "When will your family celebrate the birthday party?"
+    ],
+    "options": [],
+    "sentence_sample": "when"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã học tiếng Anh được bao lâu rồi?",
+    "answers": [
+      "How long have you studied English?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy đã sống ở đây được bao lâu?",
+    "answers": [
+      "How long has she lived here?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã làm công việc này được bao lâu rồi?",
+    "answers": [
+      "How long have you worked here?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã ở trong bệnh viện bao lâu rồi?",
+    "answers": [
+      "How long have they been in the hospital?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã kết hôn bao lâu rồi?",
+    "answers": [
+      "How long have you been married?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Ông ấy đã làm thầy giáo được bao lâu?",
+    "answers": [
+      "How long has he been a teacher?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã chờ xe buýt bao lâu?",
+    "answers": [
+      "How long have you been waiting for the bus?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã chơi thể thao được bao lâu?",
+    "answers": [
+      "How long have you been playing sports?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã sống ở nước ngoài bao lâu rồi?",
+    "answers": [
+      "How long have you lived abroad?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy đã nuôi con được bao lâu?",
+    "answers": [
+      "How long has she been raising children?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để đến trường?",
+    "answers": [
+      "How long does it take you to go to school?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy mất bao lâu để nấu bữa sáng?",
+    "answers": [
+      "How long does it take her to cook breakfast?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để học thuộc từ vựng mới?",
+    "answers": [
+      "How long does it take you to memorize new words?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ mất bao lâu để làm xong bài tập về nhà?",
+    "answers": [
+      "How long does it take them to complete their homework?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để hoàn thành dự án này?",
+    "answers": [
+      "How long does it take you to finish this project?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để dọn dẹp phòng ngủ?",
+    "answers": [
+      "How long does it take you to clean up the bedroom?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy mất bao lâu để chuẩn bị cho kỳ thi?",
+    "answers": [
+      "How long does it take her to prepare for the exam?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để đến sân bay?",
+    "answers": [
+      "How long does it take you to go to the airport?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn trai cô ấy mất bao lâu để viết báo cáo?",
+    "answers": [
+      "How long does it take her boyfriend to write a report?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để học chơi một nhạc cụ?",
+    "answers": [
+      "How long does it take to learn to play a musical instrument?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã sống ở thành phố này được bao lâu rồi?",
+    "answers": [
+      "How long have you lived in this city?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy đã học tiếng Nhật bao lâu?",
+    "answers": [
+      "How long has she studied Japanese?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã sử dụng điện thoại này được bao lâu?",
+    "answers": [
+      "How long have you been using this phone?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Anh trai bạn đã làm bác sĩ bao lâu rồi?",
+    "answers": [
+      "How long has your brother been a doctor?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã chờ cô ấy được bao lâu rồi?",
+    "answers": [
+      "How long have you been waiting for her?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã chơi trò chơi đó bao lâu rồi?",
+    "answers": [
+      "How long have they been playing that game?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Ông tôi đã nghỉ hưu bao lâu?",
+    "answers": [
+      "How long has my grandfather been retired?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô giáo của bạn đã dạy ở trường đó bao lâu rồi?",
+    "answers": [
+      "How long has your teacher been teaching at that school?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã học guitar bao lâu rồi?",
+    "answers": [
+      "How long have you been studying guitar?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã quen biết nhau bao lâu rồi?",
+    "answers": [
+      "How long have they known each other?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để đến trung tâm thương mại?",
+    "answers": [
+      "How long does it take to go to the shopping mall?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để hoàn thành bài thi?",
+    "answers": [
+      "How long does it take you to finish the exam?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để học bơi?",
+    "answers": [
+      "How long does it take to learn how to swim?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy mất bao lâu để làm bánh?",
+    "answers": [
+      "How long does it take her to make cakes?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ mất bao lâu để sửa xe?",
+    "answers": [
+      "How long does it take them to repair a car?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để đọc xong cuốn sách này?",
+    "answers": [
+      "How long does it take to finish reading this book?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để làm bài tập về nhà?",
+    "answers": [
+      "How long does it take you to complete homework?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mẹ bạn mất bao lâu để nấu bữa tối?",
+    "answers": [
+      "How long does it take your mother to cook dinner?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để học một ngôn ngữ mới?",
+    "answers": [
+      "How long does it take to learn a new language?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Em trai bạn mất bao lâu để đến trường?",
+    "answers": [
+      "How long does it take your younger brother to get to school?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã học tiếng Trung bao lâu rồi?",
+    "answers": [
+      "How long have you studied Chinese?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy đã làm việc ở bệnh viện đó bao lâu rồi?",
+    "answers": [
+      "How long has she been working at that hospital?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã sống với ông bà được bao lâu?",
+    "answers": [
+      "How long have you been living with your grandparents?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã yêu nhau được bao lâu rồi?",
+    "answers": [
+      "How long have they been in love with each other?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bố bạn đã làm công việc đó bao lâu?",
+    "answers": [
+      "How long has your father been working at that job?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Ông tôi đã chơi cờ bao lâu rồi?",
+    "answers": [
+      "How long has my grandfather been playing chess?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã tham gia câu lạc bộ này được bao lâu?",
+    "answers": [
+      "How long have you been a member of this club?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Em gái bạn đã học múa được bao lâu rồi?",
+    "answers": [
+      "How long has your younger sister been studying dance?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã dùng chiếc xe máy này được bao lâu?",
+    "answers": [
+      "How long have you been using this motorbike?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã sống trong ngôi nhà này bao lâu rồi?",
+    "answers": [
+      "How long have they been living in this house?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để nấu một bữa ăn ngon?",
+    "answers": [
+      "How long does it take to cook a delicious meal?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để đến trường bằng xe đạp?",
+    "answers": [
+      "How long does it take you to get to school by bike?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ mất bao lâu để sửa máy tính?",
+    "answers": [
+      "How long does it take them to repair their computer?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Em trai bạn mất bao lâu để hoàn thành bài tập toán?",
+    "answers": [
+      "How long does it take your younger brother to complete math exercises?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để làm quen với một môi trường mới?",
+    "answers": [
+      "How long does it take to get used to a new environment?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy mất bao lâu để viết một bài luận?",
+    "answers": [
+      "How long does it take her to write an essay?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để học cách lái xe?",
+    "answers": [
+      "How long does it take you to learn to drive?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để sơn lại căn phòng?",
+    "answers": [
+      "How long does it take to repaint the room?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để tập thể dục mỗi ngày?",
+    "answers": [
+      "How long does it take you to exercise every day?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mẹ bạn mất bao lâu để chuẩn bị bữa sáng?",
+    "answers": [
+      "How long does it take your mother to prepare breakfast?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã học ở trường này bao lâu rồi?",
+    "answers": [
+      "How long have you been studying in this school?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy đã làm việc ở công ty đó được bao lâu?",
+    "answers": [
+      "How long has she been working at that company?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã sống ở đây bao lâu rồi?",
+    "answers": [
+      "How long have you been living here?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã làm bạn với nhau được bao lâu?",
+    "answers": [
+      "How long have they been friends?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bố mẹ bạn đã kết hôn bao lâu rồi?",
+    "answers": [
+      "How long have your parents been married?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã đợi ở bến xe buýt bao lâu rồi?",
+    "answers": [
+      "How long have you been waiting at the bus stop?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Em gái bạn đã chơi piano được bao lâu?",
+    "answers": [
+      "How long has your younger sister been playing the piano?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Ông nội bạn đã trồng cây được bao lâu?",
+    "answers": [
+      "How long has your grandfather been gardening?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã học vẽ bao lâu rồi?",
+    "answers": [
+      "How long have you been learning to draw?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Thầy giáo đó đã dạy tiếng Anh bao lâu rồi?",
+    "answers": [
+      "How long has that teacher been teaching English?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để đi bộ đến trường?",
+    "answers": [
+      "How long does it take to walk to school?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để làm bài kiểm tra?",
+    "answers": [
+      "How long does it take you to complete the exam?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy mất bao lâu để nấu cơm tối?",
+    "answers": [
+      "How long does it take her to cook dinner?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Họ mất bao lâu để xây nhà?",
+    "answers": [
+      "How long does it take them to build a house?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để học một kỹ năng mới?",
+    "answers": [
+      "How long does it take to learn a new skill?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để sắp xếp lại phòng của mình?",
+    "answers": [
+      "How long does it take you to rearrange your room?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mẹ bạn mất bao lâu để giặt đồ?",
+    "answers": [
+      "How long does it take your mother to do the laundry?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Em trai bạn mất bao lâu để làm bài tập về nhà?",
+    "answers": [
+      "How long does it take your younger brother to complete homework?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao lâu để học thuộc một bài hát?",
+    "answers": [
+      "How long does it take to memorize a song?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn mất bao lâu để rửa chén?",
+    "answers": [
+      "How long does it take you to wash the dishes?"
+    ],
+    "options": [],
+    "sentence_sample": "how-long"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn ăn bao nhiêu quả táo mỗi ngày?",
+    "answers": [
+      "How many apples do you eat every day?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tối nay mình có quá nhiều bài tập phải làm!",
+    "answers": [
+      "I have so much homework to do tonight!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Buổi sáng bạn uống bao nhiêu nước?",
+    "answers": [
+      "How much water do you drink in the morning?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có quá nhiều sách trên kệ!",
+    "answers": [
+      "There are so many books on the shelf!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta cần bao nhiêu đường cho chiếc bánh này?",
+    "answers": [
+      "How much sugar do we need for this cake?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu người trong phòng?",
+    "answers": [
+      "How many people are in the room?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy có rất nhiều tiền trong ví!",
+    "answers": [
+      "He has so much money in his wallet!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy có bao nhiêu bạn ở trường?",
+    "answers": [
+      "How many friends does she have at school?"
+    ],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn có bao nhiêu anh chị em?",
+    "answers": [
+      "How many brothers and sisters do you have?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy có nhiều quần áo biết bao!",
+    "answers": [
+      "She has so many clothes!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao nhiêu tiền để mua cái điện thoại này?",
+    "answers": [
+      "How much is this phone?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Trong tủ lạnh có nhiều đồ ăn biết bao!",
+    "answers": [
+      "There is so much food in the fridge!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Lớp bạn có bao nhiêu học sinh?",
+    "answers": [
+      "How many students are there in your class?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy có quá nhiều công việc phải hoàn thành trước hạn chót!",
+    "answers": [
+      "He has so much work to finish before the deadline!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn uống bao nhiêu sữa mỗi ngày?",
+    "answers": [
+      "How much milk do you drink every day?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tối nay có quá nhiều ngôi sao trên bầu trời!",
+    "answers": [
+      "There are so many stars in the sky tonight!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta còn bao nhiêu thời gian?",
+    "answers": [
+      "How much time do we have left?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy ăn quá nhiều đồ ăn vặt trong ngày.",
+    "answers": [
+      "She eats so many snacks during the day."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu người đã đến buổi hòa nhạc tối qua?",
+    "answers": [
+      "How many people came to the concert last night?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cuối tuần này mình có rất nhiều thời gian rảnh.",
+    "answers": [
+      "I have so much free time this weekend."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Anh trai bạn có bao nhiêu người bạn?",
+    "answers": [
+      "How many friends does your brother have?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô giáo đã cho chúng tôi quá nhiều bài tập về nhà!",
+    "answers": [
+      "The teacher gave us so much homework!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu học sinh trong lớp bạn?",
+    "answers": [
+      "How many students are there in your class?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tôi có rất nhiều sách tiếng Anh!",
+    "answers": [
+      "I have so many English books!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn uống bao nhiêu nước mỗi ngày?",
+    "answers": [
+      "How much water do you drink every day?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Trong phòng có nhiều bàn ghế biết bao!",
+    "answers": [
+      "There are so many tables and chairs in the room!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ta có bao nhiêu tiền trong ví?",
+    "answers": [
+      "How much flour do we need for this cake?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta cần bao nhiêu bột để làm bánh này?",
+    "answers": [
+      "How much flour do we need for this cake?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy có rất nhiều túi xách!",
+    "answers": [
+      "She has so many bags!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn có bao nhiêu người bạn thân?",
+    "answers": [
+      "How many friends do you have?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Họ tiêu rất nhiều tiền cho kỳ nghỉ.",
+    "answers": [
+      "They spent so much money on their vacation."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn có bao nhiêu môn học ở trường?",
+    "answers": [
+      "How many subjects do you study at school?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn muốn bao nhiêu đường trong trà?",
+    "answers": [
+      "How much sugar do you want in your tea?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Hôm nay mình có quá nhiều việc phải làm!",
+    "answers": [
+      "I have so many things to do today!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Hôm qua bạn đã mua bao nhiêu quyển sách?",
+    "answers": [
+      "How many books did you buy yesterday?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy uống rất nhiều nước mỗi ngày.",
+    "answers": [
+      "She drinks so much water every day."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu cây bút trên bàn?",
+    "answers": [
+      "How many pens are there on the table?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Họ đã gây ra quá nhiều tiếng ồn tối qua.",
+    "answers": [
+      "They made so much noise last night."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta cần bao nhiêu thời gian để hoàn thành dự án này?",
+    "answers": [
+      "How much time do we need to finish this project?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng tôi đã ăn quá nhiều bánh sandwich trong buổi dã ngoại.",
+    "answers": [
+      "We ate so many sandwiches at the picnic."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu người sẽ đến cuộc họp?",
+    "answers": [
+      "How many people are coming to the meeting?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy đã tiêu quá nhiều tiền cho quần áo.",
+    "answers": [
+      "He spent so much money on clothes."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn có bao nhiêu đôi giày?",
+    "answers": [
+      "How many shoes do you have?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Trong công viên có nhiều chim biết bao!",
+    "answers": [
+      "There are so many birds in the park!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy có bao nhiêu thú cưng?",
+    "answers": [
+      "How many pets does she have?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tôi có quá nhiều công việc vào cuối tuần này!",
+    "answers": [
+      "I have so much work this weekend!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Mất bao nhiêu thời gian để đến đó?",
+    "answers": [
+      "How much time does it take to get there?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Họ có nhiều quà biết bao vào Giáng sinh!",
+    "answers": [
+      "They have so many gifts at Christmas!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn uống bao nhiêu nước mỗi ngày?",
+    "answers": [
+      "How much water do you drink every day?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Trong nhà có bao nhiêu người?",
+    "answers": [
+      "How many people are there in the house?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tôi thấy quá nhiều xe cộ trên đường!",
+    "answers": [
+      "I see so many cars on the street!"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Mẹ bạn cần bao nhiêu đường để nấu chè?",
+    "answers": [
+      "How much sugar does your mother need to cook sweet soup?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn muốn bao nhiêu sữa trong cà phê của mình?",
+    "answers": [
+      "How much milk do you want in your coffee?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu học sinh đã tham gia cuộc thi?",
+    "answers": [
+      "How many students took part in the competition?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta cần bao nhiêu đường cho bánh quy?",
+    "answers": [
+      "How much sugar do we need for the cookies?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu chiếc ghế trong phòng khách?",
+    "answers": [
+      "How many chairs are there in the living room?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta có bao nhiêu thời gian trước khi bộ phim bắt đầu?",
+    "answers": [
+      "How much time do we have before the movie starts?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn thường ăn bao nhiêu cơm vào bữa tối?",
+    "answers": [
+      "How much rice do you usually eat for dinner?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy nhận được bao nhiêu email mỗi ngày?",
+    "answers": [
+      "How many emails does she receive every day?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy đã tiêu bao nhiêu tiền cho chiếc laptop mới?",
+    "answers": [
+      "How much money did he spend on his new laptop?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu quả táo trong giỏ?",
+    "answers": [
+      "How many apples are in the basket?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn đã ăn bao nhiêu bánh sandwich vào bữa trưa?",
+    "answers": [
+      "How many sandwiches did you eat for lunch?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tôi có rất nhiều bạn trong lớp.",
+    "answers": [
+      "I have so many friends in my class."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy uống quá nhiều cà phê mỗi ngày.",
+    "answers": [
+      "She drinks so much coffee every day."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu cái ghế trong phòng họp?",
+    "answers": [
+      "How many chairs are there in the meeting room?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Họ tiêu rất nhiều tiền cho kỳ nghỉ hè.",
+    "answers": [
+      "They spent so much money on their vacation."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta cần bao nhiêu trứng cho món ăn này?",
+    "answers": [
+      "How many eggs do we need for this dish?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có rất nhiều sách trên bàn làm việc.",
+    "answers": [
+      "There are so many books on the desk."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn cần bao nhiêu thời gian để hoàn thành bài tập?",
+    "answers": [
+      "How much time do you need to complete your homework?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Em trai tôi ăn quá nhiều bánh kẹo.",
+    "answers": [
+      "My younger brother eats so many sweets."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu học sinh vắng mặt hôm nay?",
+    "answers": [
+      "How many students are absent today?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tôi có rất nhiều việc phải làm vào cuối tuần.",
+    "answers": [
+      "I have so much work to do on the weekend."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta cần bao nhiêu trứng cho món ăn này?",
+    "answers": [
+      "How many eggs do we need for this dish?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có rất nhiều sách trên bàn làm việc.",
+    "answers": [
+      "There are so many books on the desk."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn cần bao nhiêu thời gian để hoàn thành bài tập?",
+    "answers": [
+      "How much time do you need to complete your homework?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Em trai tôi ăn quá nhiều bánh kẹo.",
+    "answers": [
+      "My younger brother eats so many sweets."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu học sinh vắng mặt hôm nay?",
+    "answers": [
+      "How many students are absent today?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tôi có rất nhiều việc phải làm vào cuối tuần.",
+    "answers": [
+      "I have so much work to do on the weekend."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Chúng ta cần bao nhiêu trứng cho món ăn này?",
+    "answers": [
+      "How many eggs do we need for this dish?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có rất nhiều sách trên bàn làm việc.",
+    "answers": [
+      "There are so many books on the desk."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Bạn cần bao nhiêu thời gian để hoàn thành bài tập?",
+    "answers": [
+      "How much time do you need to complete your homework?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Em trai tôi ăn quá nhiều bánh kẹo.",
+    "answers": [
+      "My younger brother eats so many sweets."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Có bao nhiêu học sinh vắng mặt hôm nay?",
+    "answers": [
+      "How many students are absent today?"
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Tôi có rất nhiều việc phải làm vào cuối tuần.",
+    "answers": [
+      "I have so much work to do on the weekend."
+    ],
+    "options": [],
+    "sentence_sample": "how-many-so-much"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy không thông minh bằng chị gái của mình.",
+    "answer": [
+      "She is not as intelligent as her sister."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Căn phòng này rộng như căn phòng kia.",
+    "answer": [
+      "This room is as big as that one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Hôm nay không lạnh bằng hôm qua.",
+    "answer": [
+      "Today is not as cold as yesterday."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy nói tiếng Anh giỏi như giáo viên.",
+    "answer": [
+      "He is speak English as well as teacher."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Công việc này không khó như tôi nghĩ.",
+    "answer": [
+      "This work is not as difficult as I thought."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy không mạnh bằng anh trai của mình.",
+    "answer": [
+      "He is not as strong as his brother."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bộ phim này thú vị như bộ phim mà chúng ta xem tuần trước.",
+    "answer": [
+      "This movie is as interesting as the one we watched last week."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chiếc điện thoại này không tốt bằng chiếc tôi mua năm ngoái.",
+    "answer": [
+      "This phone is not as good as the one I bought last year."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy hát hay như ca sĩ chuyên nghiệp.",
+    "answer": [
+      "She sings as well as professional singer."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bài kiểm tra này không khó bằng bài hôm trước.",
+    "answer": [
+      "This test is not as difficult as the previous one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Căn phòng này không sáng bằng căn phòng kia.",
+    "answer": [
+      "This room is not as bright as that one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy chơi bóng đá giỏi như bạn của anh ấy.",
+    "answer": [
+      "He plays football as well as his friend."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Ngày hôm nay không bận rộn như hôm qua.",
+    "answer": [
+      "Today is not as busy as yesterday."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chiếc áo này rẻ như chiếc áo màu xanh.",
+    "answer": [
+      "This shirt is as cheap as the blue one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Công việc này không quan trọng bằng công việc tuần trước.",
+    "answer": [
+      "This job is not as important as last week's."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy vẽ đẹp như một họa sĩ chuyên nghiệp.",
+    "answer": [
+      "She draws as well as professional artist."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bữa ăn ở nhà hàng này không ngon bằng ở nhà hàng cũ.",
+    "answer": [
+      "The meal at this restaurant is not as delicious as at the old one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Thư viện này yên tĩnh như thư viện ở trường tôi.",
+    "answer": [
+      "This library is as quiet as the one at my school."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Họ không vui vẻ bằng chúng tôi trong bữa tiệc hôm qua.",
+    "answer": [
+      "They were not as happy as us at the party yesterday."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chiếc xe mới của tôi nhanh như xe đua.",
+    "answer": [
+      "My new car is as fast as a race car."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy thông minh như anh trai của mình.",
+    "answer": [
+      "She is as intelligent as her brother."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Ngôi nhà này không rộng bằng ngôi nhà kia.",
+    "answer": [
+      "This house is not as big as that one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bữa ăn hôm nay ngon như bữa ăn hôm qua.",
+    "answer": [
+      "Today's meal is as delicious as yesterday's."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy không nhanh bằng bạn cùng lớp.",
+    "answer": [
+      "He is not as fast as his classmate."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chiếc xe này đắt như chiếc xe màu đỏ.",
+    "answer": [
+      "This car is as expensive as the red one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cuốn sách này không thú vị bằng cuốn sách bạn cho tôi.",
+    "answer": [
+      "This book is not as interesting as the one you gave me."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Trời hôm nay nóng như hôm qua.",
+    "answer": [
+      "Today's weather is as hot as yesterday's."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cái bàn này không chắc chắn bằng cái bàn trong bếp.",
+    "answer": [
+      "This table is not as sturdy as the one in the kitchen."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chuyến du lịch này thú vị như chuyến du lịch năm ngoái.",
+    "answer": [
+      "This trip is as interesting as last year's trip."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bài kiểm tra hôm nay không khó bằng bài kiểm tra tuần trước.",
+    "answer": [
+      "Today's test is not as difficult as last week's test."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy hát hay như ca sĩ nổi tiếng.",
+    "answer": [
+      "She sings as well as a famous singer."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Ngôi nhà này không mới bằng ngôi nhà cạnh biển.",
+    "answer": [
+      "This house is not as new as the one next to the sea."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Hôm nay lạnh như hôm qua.",
+    "answer": [
+      "Today is as cold as yesterday."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Món ăn này không cay bằng món ăn Thái.",
+    "answer": [
+      "This meal is not as spicy as Thai food."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy lái xe cẩn thận như cha mình.",
+    "answer": [
+      "He drives as carefully as his father."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bộ phim này không dài bằng bộ phim tối qua.",
+    "answer": [
+      "This movie is not as long as last night's movie."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Con mèo của tôi đáng yêu như con chó của bạn.",
+    "answer": [
+      "My cat is as cute as your dog."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cuộc họp hôm nay không quan trọng bằng cuộc họp tuần trước.",
+    "answer": [
+      "Today's meeting is not as important as last week's meeting."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cây này cao như tòa nhà ba tầng.",
+    "answer": [
+      "This tree is as tall as a three-storey building."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Kỳ nghỉ này không vui bằng kỳ nghỉ năm ngoái.",
+    "answer": [
+      "This holiday is not as fun as last year's holiday."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy chạy nhanh như một vận động viên chuyên nghiệp.",
+    "answer": [
+      "She runs as fast as the one professional athlete."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chiếc điện thoại này không bền bằng chiếc điện thoại tôi mua năm ngoái.",
+    "answer": [
+      "This phone is not as durable as the one I bought last year."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Hôm nay đẹp trời như hôm qua.",
+    "answer": [
+      "Today is as beautiful as yesterday."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bài hát này không nổi tiếng bằng bài hát cũ của anh ấy.",
+    "answer": [
+      "This song is not as famous as his one old."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy mạnh như một con sư tử.",
+    "answer": [
+      "He is as strong as a lion."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cuốn tiểu thuyết này không dài bằng cuốn tiểu thuyết trước.",
+    "answer": [
+      "This novel is not as long as the previous one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bức tranh này đẹp như bức tranh trong bảo tàng.",
+    "answer": [
+      "This painting is as beautiful as the one in the museum."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Món tráng miệng này không ngọt bằng món hôm qua.",
+    "answer": [
+      "This dessert is not as sweet as yesterday's dessert."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Con đường này rộng như con đường chính của thành phố.",
+    "answer": [
+      "This road is as wide as the city's main road."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bài kiểm tra này không khó như bài kiểm tra cuối kỳ.",
+    "answer": [
+      "This test is not as difficult as the final exam."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cô ấy cao như bạn thân của tôi.",
+    "answer": [
+      "She is as tall as my best friend."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chiếc ghế này không thoải mái bằng chiếc ghế trong phòng khách.",
+    "answer": [
+      "This chair is not as comfortable as the one in the living room."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Thành phố này nhộn nhịp như thành phố New York.",
+    "answer": [
+      "This city is as busy as New York city."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Bữa tiệc này không đông vui bằng bữa tiệc Giáng Sinh.",
+    "answer": [
+      "This party is not lively as the Christmas party."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Anh ấy lịch sự như một quý ông thực thụ.",
+    "answer": [
+      "He is as polite as a true gentleman."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cây cầu này không dài bằng cây cầu ở quê tôi.",
+    "answer": [
+      "This bridge is not as long as the one in my hometown."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cô bé dễ thương như một thiên thần.",
+    "answer": [
+      "The child is as cute as an angel."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Trận đấu này không gay cấn bằng trận đấu tuần trước.",
+    "answer": [
+      "The match is not as exciting as last week’s match."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Ngày hôm nay mát mẻ như mùa xuân.",
+    "answer": [
+      "Today is as cool as the spring."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Chiếc váy này không sang trọng bằng chiếc váy màu đỏ.",
+    "answer": [
+      "This dress is not as elegant as the red one."
+    ],
+    "options": [],
+    "sentence_sample": "as-as"
+  },
+  {
+    "type": "essay",
+    "question": "Cảnh sát bắt tên trộm trả lại đồ.",
+    "answer": [
+      "The police made the thief return the stolen items."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "type": "essay",
+    "question": "Cô giáo bắt học sinh đọc lại bài tập.",
+    "answer": [
+      "The teacher made the student repeat the exercise."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "type": "essay",
+    "question": "Họ bắt nhân viên hoàn thành báo cáo trong ngày.",
+    "answer": [
+      "They made staff complete the report within the day."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "type": "essay",
+    "question": "Bác sĩ bắt bệnh nhân uống thuốc đúng giờ.",
+    "answer": [
+      "The doctor made patient take the medicine on time."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "type": "essay",
+    "question": "Cha tôi bắt tôi dọn phòng mỗi cuối tuần.",
+    "answer": [
+      "My father makes me clean my room every weekend."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "type": "essay",
+    "question": "Hôm qua, cảnh sát bắt người đàn ông trả lại ví bị mất.",
+    "answer": [
+      "Yesterday, the police made the man return the lost wallet."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "type": "essay",
+    "question": "Cô giáo đang bắt học sinh làm bài kiểm tra.",
+    "answer": [
+      "The teacher is making the students take the test."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "type": "essay",
+    "question": "Hôm trước, giám đốc bắt thư ký gửi email ngay lập tức.",
+    "answer": [
+      "The other day, the director made the secretary send the email immediately."
+    ],
+    "options": [],
+    "sentence_sample": "make"
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Họ bắt nhân viên ký hợp đồng trước khi bắt đầu làm việc.",
+    "type": "essay",
+    "answer": [
+      "The teacher is making the students take the test."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Mẹ tôi vừa bắt tôi rửa bát xong.",
+    "type": "essay",
+    "answer": [
+      "They made the staff the contract before starting the job."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Cha tôi thường bắt tôi dậy sớm vào cuối tuần.",
+    "type": "essay",
+    "answer": [
+      "My father often makes me get up early on weekends."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Huấn luyện viên đang bắt đội bóng tập thêm một giờ nữa.",
+    "type": "essay",
+    "answer": [
+      "The coach is making the football team practice for one more hour."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Giáo viên bắt học sinh chép lại bài 3 lần vì sai lỗi chính tả.",
+    "type": "essay",
+    "answer": [
+      "The teacher made the students rewrite the exercise three times because of spelling mistakes."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Bác sĩ đang bắt bệnh nhân uống nhiều nước hơn.",
+    "type": "essay",
+    "answer": [
+      "The doctor is making the patient drink more water."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Cha mẹ tôi bắt tôi tham gia lớp học tiếng Anh vào mùa hè.",
+    "type": "essay",
+    "answer": [
+      "My parents made me join an English class in the summer."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Cảnh sát bắt tài xế đỗ xe đúng nơi quy định.",
+    "type": "essay",
+    "answer": [
+      "The police made the driver park in the designated place."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Cô giáo bắt học sinh viết bài luận 500 từ.",
+    "type": "essay",
+    "answer": [
+      "The teacher made the students write a 500-word essay."
+    ],
+    "options": []
+  },
+  {
+    "sentence_sample": "make",
+    "question": "Mẹ tôi bắt em trai tôi học bài trước khi đi chơi.",
+    "type": "essay",
+    "answer": [
+      "My mother made my younger brother study before going out."
+    ],
+    "options": []
+  }
+]
