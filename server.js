@@ -1,9 +1,12 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
+const cors = require("cors");
+
 const app = express();
 const PORT = process.env.PORT || 4000;
 
+app.use(cors()); // <-- Thêm dòng này
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
 
