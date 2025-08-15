@@ -2,7 +2,7 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 const app = express();
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 // Cho phép nhận JSON từ client
 app.use(express.json());
